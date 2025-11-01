@@ -1,0 +1,11 @@
+# MLops environment folder
+mlops/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Dependencies
+requirements.txt
